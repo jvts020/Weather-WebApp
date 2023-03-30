@@ -1,5 +1,5 @@
 // variaveis e elementos    
-const apiKey = "046616a92dfc49f23500809549a50b6c";
+const apiKey = "";
 const apiCountryURL = `https://www.countryflagicons.com/FLAT/64/`;
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
